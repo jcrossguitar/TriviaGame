@@ -24,7 +24,7 @@ var questions = [
   },
   {
     question: "Which instrument is considered a stringed instrument?",
-    answers: ["Trumpet", "Harmonica", "Harp", "Banjo"],
+    answers: ["Trumpet", "Harmonica", "Xylophone", "Banjo"],
     correctAnswer: "Banjo"
   },
   {
@@ -41,6 +41,16 @@ var questions = [
     question: "Which instrument is considered part of the brass instruments?",
     answers: ["Saxophone", "Cello", "Bongos", "Trumpet"],
     correctAnswer: "Trumpet"
+  },
+  {
+    question: "Which instrument best fits the term 'classical'?",
+    answers: ["Violin", "Electric Guitar", "Xylophone", "Harmonica"],
+    correctAnswer: "Violin"
+  },
+  {
+    question: "Which instrument is considered the oldest instrument?",
+    answers: ["Drum", "Harp", "Lute", "Flute"],
+    correctAnswer: "Flute"
   }
 ];
 
